@@ -1,6 +1,6 @@
 #!/usr/bin/g++
 #include "CLI11.hpp"
-#include "functions.h"
+#include "functions.cpp"
 
 
 std::regex reg_hex(R"(^([0-9a-f]{3}|[0-9a-f]{6}|[0-9a-f]{8})$)");

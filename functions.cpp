@@ -1,4 +1,4 @@
-#include "functions.h"
+#include "defs.h"
 
 
 std::vector<std::string> split(const std::string& str, char seperator)
